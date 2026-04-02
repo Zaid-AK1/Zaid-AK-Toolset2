@@ -20,6 +20,8 @@ Step 4 : To run the tool Write in Terminal (./Zaid_AK_Toolset2.sh)
 
 Choose an option below and Enjoy
 
+⚠️ For educational and authorized security testing purposes only.
+
 # About Me
 
 Linkedin : https://www.linkedin.com/in/zaid-ak-9a1b71352
